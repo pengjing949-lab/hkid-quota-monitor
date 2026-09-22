@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-09-22T14:08:17+08:00",
+ "generated_at": "2026-09-22T14:12:18+08:00",
  "events": [
   {
    "type": "quota_gone",
-   "office": "RHK",
+   "office": "YLO",
    "date": "2026-10-27",
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-22T14:08:26+08:00"
+   "detected_at": "2026-09-22T14:12:27+08:00"
   }
  ]
 }
